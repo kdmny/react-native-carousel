@@ -172,7 +172,7 @@ var styles = StyleSheet.create({
     backgroundColor:'transparent',
   },
   pageIndicatorTop: {
-    top: 25,
+    top: -10,
     alignSelf: 'center',
   },
   pageIndicatorBottom: {
